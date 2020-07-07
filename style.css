@@ -1,0 +1,30 @@
+.container{
+    margin-bottom: 100px;
+}
+.nav-link{
+    color: gray;
+}
+.color-h{
+    color: orange;
+}
+.card{
+    box-shadow: 10px 10px 20px lightgray;
+    border-radius: 5px;
+}
+.figcaption{
+    text-align: center;
+}
+.middle-h{
+    text-align: center;
+}
+.border{
+    margin: 0 auto;
+    width: 90px;
+    height: 5px;
+    background-color: orange;
+    border-radius: 5px;
+}
+.card b{
+    margin-top: 20px;
+
+}
